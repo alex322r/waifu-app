@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/waifu-app/static/css/main.d4308298.css",
+    "main.js": "/waifu-app/static/js/main.64b107b8.js",
+    "static/js/787.ad637cbb.chunk.js": "/waifu-app/static/js/787.ad637cbb.chunk.js",
+    "static/media/iconsrc.png": "/waifu-app/static/media/iconsrc.dfef4146ac7cf5f0694b.png",
+    "static/media/refresh.png": "/waifu-app/static/media/refresh.d606f375349aa19253e0.png",
+    "index.html": "/waifu-app/index.html",
+    "main.d4308298.css.map": "/waifu-app/static/css/main.d4308298.css.map",
+    "main.64b107b8.js.map": "/waifu-app/static/js/main.64b107b8.js.map",
+    "787.ad637cbb.chunk.js.map": "/waifu-app/static/js/787.ad637cbb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4308298.css",
+    "static/js/main.64b107b8.js"
+  ]
+}
